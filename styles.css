@@ -1,0 +1,14 @@
+@import normalize.css;  
+
+div.text-box {
+width: 500px;
+background-image: url(http://imgs.tuts.dragoart.com/how-to-draw-a-spaceship_1_000000003677_5.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: #fff;
+padding: 50px;
+display: inline-block;
+text-align: left;
+margin: 15px;
+};
